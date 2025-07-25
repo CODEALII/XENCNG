@@ -1,5 +1,6 @@
 # 🔐 XENCNG v5.0 – Quantum-Hardened File Encryption
 **FREE and Open source**
+
 **XENCNG (eXtended Encryption Next-Generation)** is a powerful, next-gen file encryption system built for **maximum protection** against brute-force, forensic, and even future quantum attacks. It uses layered AES-256 encryption combined with Argon2id key derivation and adaptive hardening.
 
 ---
