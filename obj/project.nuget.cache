@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "4Q8hfc2dcPk=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ali\\source\\repos\\XENCNG\\XENCNG\\XENCNG.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ali\\.nuget\\packages\\isopoh.cryptography.argon2\\2.0.0\\isopoh.cryptography.argon2.2.0.0.nupkg.sha512",
+    "C:\\Users\\Ali\\.nuget\\packages\\isopoh.cryptography.blake2b\\2.0.0\\isopoh.cryptography.blake2b.2.0.0.nupkg.sha512",
+    "C:\\Users\\Ali\\.nuget\\packages\\isopoh.cryptography.securearray\\2.0.0\\isopoh.cryptography.securearray.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,17 @@
+C:\Users\Ali\source\repos\XENCNG\XENCNG\bin\Release\net8.0\XENCNG.exe
+C:\Users\Ali\source\repos\XENCNG\XENCNG\bin\Release\net8.0\XENCNG.deps.json
+C:\Users\Ali\source\repos\XENCNG\XENCNG\bin\Release\net8.0\XENCNG.runtimeconfig.json
+C:\Users\Ali\source\repos\XENCNG\XENCNG\bin\Release\net8.0\XENCNG.dll
+C:\Users\Ali\source\repos\XENCNG\XENCNG\bin\Release\net8.0\Isopoh.Cryptography.Argon2.dll
+C:\Users\Ali\source\repos\XENCNG\XENCNG\bin\Release\net8.0\Isopoh.Cryptography.Blake2b.dll
+C:\Users\Ali\source\repos\XENCNG\XENCNG\bin\Release\net8.0\Isopoh.Cryptography.SecureArray.dll
+C:\Users\Ali\source\repos\XENCNG\XENCNG\obj\Release\net8.0\XENCNG.csproj.AssemblyReference.cache
+C:\Users\Ali\source\repos\XENCNG\XENCNG\obj\Release\net8.0\XENCNG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ali\source\repos\XENCNG\XENCNG\obj\Release\net8.0\XENCNG.AssemblyInfoInputs.cache
+C:\Users\Ali\source\repos\XENCNG\XENCNG\obj\Release\net8.0\XENCNG.AssemblyInfo.cs
+C:\Users\Ali\source\repos\XENCNG\XENCNG\obj\Release\net8.0\XENCNG.csproj.CoreCompileInputs.cache
+C:\Users\Ali\source\repos\XENCNG\XENCNG\obj\Release\net8.0\XENCNG.csproj.Up2Date
+C:\Users\Ali\source\repos\XENCNG\XENCNG\obj\Release\net8.0\XENCNG.dll
+C:\Users\Ali\source\repos\XENCNG\XENCNG\obj\Release\net8.0\refint\XENCNG.dll
+C:\Users\Ali\source\repos\XENCNG\XENCNG\obj\Release\net8.0\XENCNG.genruntimeconfig.cache
+C:\Users\Ali\source\repos\XENCNG\XENCNG\obj\Release\net8.0\ref\XENCNG.dll
