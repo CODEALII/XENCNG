@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("XENCNG")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e4188446be8115373dbc7fcad33258e58ac22ab3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+899690becf448f4e98f50f70b4e20153a1a1aff5")]
 [assembly: System.Reflection.AssemblyProductAttribute("XENCNG")]
 [assembly: System.Reflection.AssemblyTitleAttribute("XENCNG")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
